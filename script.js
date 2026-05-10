@@ -47,4 +47,4 @@ data.forEach((item,index)=>{
     });
     panel.classList.add("active");
   });
-})
+});
